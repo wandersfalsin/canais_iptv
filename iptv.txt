@@ -12,3 +12,4 @@ https://video01.kshost.com.br:4443/elton3601/elton3601/chunklist_w263320428.m3u8
 
 #EXTINF:-1 tvg-id="BandSaoPaulo2.br" tvg-logo="https://i.imgur.com/HnL2uBA.png" group-title="Brasil: variedades em português",Band | Brasil
 https://evpp.mm.uol.com.br/geob_band/band/master.m3u8
+https://www.aficionados.com.br/ordem-cronologica-anime-os-cavaleiros-do-zodiaco/
