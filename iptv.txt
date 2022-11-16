@@ -18,3 +18,9 @@ http://189.91.128.146:4444/udp/227.10.20.104:1234
 
 #EXTINF:-1 tvg-id="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1200px-CNN_Brasil.svg.png" group-title="Brasil: variedades em português",CNN
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCvdwhh_fDyWccR42-rReZLw/live
+
+#EXTINF:-1 tvg-id="GLOBO" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="Brasil: variedades em português",GLOBO
+http://189.91.128.146:4444/udp/227.10.20.109:1234
+
+#EXTINF:-1 tvg-id="SBT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/41/Logotipo_do_SBT.svg" group-title="Brasil: variedades em português",SBT
+http://bitly.com:80/Sbt-hd
