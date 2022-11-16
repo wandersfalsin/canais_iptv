@@ -24,3 +24,13 @@ http://189.91.128.146:4444/udp/227.10.20.109:1234
 
 #EXTINF:-1 tvg-id="SBT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/41/Logotipo_do_SBT.svg" group-title="Brasil: variedades em português",SBT
 http://bitly.com:80/Sbt-hd
+
+#EXTINF:-1, tvg-id="Band.News" tvg-logo="https://assets-global.website-files.com/56a8f71796f7e474512210ca/5d69a0986079d06cf9bb7a97_Bandnews.png" group-title="Brasil: variedades em português",Band News
+http://189.91.128.146:4444/udp/227.10.20.131:1234
+
+#EXTINF:-1, tvg-id="Record" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="Brasil: variedades em português",Record
+http://189.91.128.146:4444/udp/227.10.20.151:1234
+
+
+
+
