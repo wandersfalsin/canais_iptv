@@ -7,11 +7,14 @@ https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CNu0JI0.png" group-title="Brasil: notícias em português",Band Jornalismo - horários | YT Brasil
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/bandjornalismo/live
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Zcrcwhy.png" group-title="Brasil: variedades em português",TV A Folha | Palmas PR Brasil
-https://video01.kshost.com.br:4443/elton3601/elton3601/chunklist_w263320428.m3u8
-
 #EXTINF:-1 tvg-id="BandSaoPaulo2.br" tvg-logo="https://i.imgur.com/HnL2uBA.png" group-title="Brasil: variedades em português",Band | Brasil
 https://evpp.mm.uol.com.br/geob_band/band/master.m3u8
 
-#EXTINF:-1 tvg-id="PREMIERE2" tvg-logo="https://www.revenda.top/img/1-premiere.png" group-title="Brasil: variedades em português",PREMIERE1
+#EXTINF:-1 tvg-id="PREMIERE1" tvg-logo="https://www.revenda.top/img/1-premiere.png" group-title="Brasil: variedades em português",PREMIERE
 http://189.91.128.146:4444/udp/227.10.20.102:1234
+
+#EXTINF:-1 tvg-id="PREMIERE2" tvg-logo="https://www.revenda.top/img/1-premiere.png" group-title="Brasil: variedades em português",PREMIERE2
+http://189.91.128.146:4444/udp/227.10.20.104:1234
+
+#EXTINF:-1 tvg-id="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1200px-CNN_Brasil.svg.png" group-title="Brasil: variedades em português",CNN
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCvdwhh_fDyWccR42-rReZLw/live
