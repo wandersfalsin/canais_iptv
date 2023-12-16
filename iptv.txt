@@ -22,5 +22,28 @@ http://185.150.190.225:16476
 #EXTINF:-1 tvg-id="GloboNewsHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Logotipo_da_GloboNews.png" group-title="Brasil: variedades em português",Globo News HD
 http://209.222.97.92:16436
 
+#EXTINF:-1 tvg-id="CARTOONNETWORKHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Cartoon_Network_HD_logo.svg" group-title="Brasil: variedades em português",Cartoon Network HD
+http://199.127.60.83:14687/
+
+#EXTINF:-1 tvg-id="SBT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/41/Logotipo_do_SBT.svg" group-title="Brasil: variedades em português",SBT HD
+http://199.127.60.83:16170
+
+#EXTINF:-1 tvg-id="Record_News" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/c7/Logotipo_da_Record_News_%282016%29.png/220px-Logotipo_da_Record_News_%282016%29.png" group-title="Brasil: variedades em português",Record News
+http://cdn2.connectbr.com.br:80/Record-News-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="CARTOONITO_HD" tvg-logo="https://www.epgrupo.com.br/wp-content/uploads/2021/12/Cartoonito-Logo-02.png" group-title="Brasil: variedades em português",CARTOONITO HD
+http://199.127.60.83:14682
+
+
+
+
+
+
+
+
+
+
+
+
 
 
