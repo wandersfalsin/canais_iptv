@@ -34,7 +34,8 @@ http://cdn2.connectbr.com.br:80/Record-News-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="CARTOONITO_HD" tvg-logo="https://www.epgrupo.com.br/wp-content/uploads/2021/12/Cartoonito-Logo-02.png" group-title="Brasil: variedades em português",CARTOONITO HD
 http://199.127.60.83:14682
 
-
+#EXTINF:-1 tvg-id="motog",motog
+https://192.168.100.25:8080/video
 
 
 
